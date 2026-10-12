@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+fer
+torch
+transformers==4.40.2
+soundfile
+pillow
+scipy
